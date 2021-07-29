@@ -1680,7 +1680,7 @@ hr {
     position: relative;
     top: 77%;
     left: 0%;
-    margin-top: -200px;
+    margin-top: -70px;
 }
 #home .footer-area::before {
     content: '';
@@ -1851,7 +1851,7 @@ hr {
     left: 0%;
 }
 #contact .footer-area-group {
-    height: 280px;
+    height: 316px;
     border-radius: 0;
     position: relative;
     right: 0;
