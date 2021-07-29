@@ -1680,7 +1680,7 @@ hr {
     position: relative;
     top: 77%;
     left: 0%;
-    margin-top: -70px;
+    margin-top: 0px;
 }
 #home .footer-area::before {
     content: '';
