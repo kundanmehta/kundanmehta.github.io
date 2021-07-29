@@ -430,11 +430,11 @@ hr{
 .footer-area{
   position: relative;
   height: 165vh;
-  background-color: #6937ff;
+  background-color: #005dc1;
   /*opacity: 0.8;*/
   border-top-left-radius: 120px;
-    padding-top: 120px;te
-    padding-bottom: 180px;
+  padding-top: 120px;te
+  padding-bottom: 180px;
 }
 .footer-area::before{
   content: '';
@@ -487,7 +487,7 @@ hr{
     left: 40px;
 }
 .service-box{
-    border: 2px solid #784BFF;
+    border: 2px solid #1366bf;
     border-top: none;
     border-left: none;
     padding: 42px 20px 58px 43px;
