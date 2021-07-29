@@ -205,7 +205,6 @@ hr{
    } 
    .header-home .header-ill{
    	position: relative;
-    z-index: 5;
    }
    .header-home .header-ill img{
    	width: 584px;
@@ -1680,7 +1679,7 @@ hr {
     position: relative;
     top: 77%;
     left: 0%;
-    margin-top: -84px;
+    margin-top: 34px;
 }
 #home .footer-area::before {
     content: '';
